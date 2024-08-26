@@ -1,4 +1,4 @@
-# Docker Image for 3D Slicer application from web broswer
+# Docker Image for 3D Slicer application from web browser
 
 # Build the docker images
 
